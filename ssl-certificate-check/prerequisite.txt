@@ -1,0 +1,3 @@
+1. go mod init : ini untuk inisiasi sebuah project atau menginstall go.mod 
+2. Install library yang dibutuhkan disini karena untuk ssl library yang di butuhkan adalah : go get github.com/go-ping/ping 
+3. Tuliskan Kode Programmnya

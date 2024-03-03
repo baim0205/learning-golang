@@ -1,0 +1,17 @@
+{
+    "judul": "Data Identitas",
+    "data": [
+      {
+        "nama": "Mohammad Nurrohim",
+        "nik": "1234567890",
+        "alamat": "Jalan Contoh No. 123, Kota Contoh, Negara Contoh"
+      },
+      {
+        "nama": "Nurrohim Mohammad",
+        "nik": "0987654321",
+        "alamat": "Jalan Contoh No. 456, Kota Contoh, Negara Contoh"
+      }
+      
+    ]
+  }
+  

@@ -1,5 +1,5 @@
-# learning-golang
-learning-golang
+# Learning-golang
+Learning-golang
 
 # Go Installation Guide for macOS
 With these steps, you have installed Go using Homebrew and configured the PATH for both bash and zsh. Make sure to adjust accordingly based on your shell. After completing these steps, check the Go version to confirm a successful installation.

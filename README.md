@@ -21,4 +21,4 @@ echo 'export PATH=$PATH:/usr/local/go/bin' >> ~/.zshrc
 source ~/.zshrc
 
 go version
-```bash
+

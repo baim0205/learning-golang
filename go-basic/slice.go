@@ -1,4 +1,4 @@
-// Tanggal 3 Maret 2024 Rohim!!
+// Tanggal 6 Sept 2024 Rohim!!
 // Slice itu sama seperti Dictionary milik Python!!
 /* Perbedaan dengan array adalah saat deklarasi variable, jika jumlah element nya tidak dituliskan maka variable tersebut adalah slice Contoh :
 var buah_a = []string{"Belimbing","Ape;"} <-- ini Sliece
